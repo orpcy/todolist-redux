@@ -1,6 +1,10 @@
 {
   "name": "todo_server",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.6.0",
+    "npm": "6.14.10"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
